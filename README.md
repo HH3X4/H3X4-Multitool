@@ -23,6 +23,6 @@
 
 # Preview
 
-![image](![image](https://github.com/HH3X4/H3X4-Multitool/blob/main/loading.png?raw=true)
-![image](![image](https://github.com/HH3X4/H3X4-Multitool/blob/main/start.png?raw=true)
-![image](![image](https://github.com/HH3X4/H3X4-Multitool/blob/main/home.png?raw=true)
+![image](https://github.com/HH3X4/H3X4-Multitool/blob/main/loading.png?raw=true)
+![image](https://github.com/HH3X4/H3X4-Multitool/blob/main/start.png?raw=true)
+![image](https://github.com/HH3X4/H3X4-Multitool/blob/main/home.png?raw=true)
