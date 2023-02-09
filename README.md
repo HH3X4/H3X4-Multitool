@@ -1,9 +1,22 @@
-# H3X4-Multitool
-H3X4 Batch Multitool
+# H3X4 MultiTool
+## By H3X4#0001
+<li>This project was made in batch by H3X4#0001 join the discord for more info!</li>
+<li>discord: https://discord.gg/hexa</li>
 
-HOW TO USE:
-1 - Download the .bat file.
-2 - Open the .bat file.
-3 - Create a account by going to the register page.
-4 - Login to the account you just registered.
-5 - Your all set!
+# How to use?
+<li>1 - download the .bat file.</li>
+<li>2 - Open the .bat file.</li>
+<li>3 - Create an account by going to register.</li>
+<li>4 - Login to your account.</li>
+<li>5 - And your all set! <3 </li>
+
+# Features
+
+<li>1 - IP pinger</li>
+<li>2 - IP stressers</li>
+<li>3 - IP lookup</li>
+<li>4 - Whats my IP</li>
+<li>5 - Discord webhook spammer</li>
+<li>6 - DOS (fake :) )</li>
+<li>7 - DOX tool</li>
+<li>8 - IP grabbers</li>
